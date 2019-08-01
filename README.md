@@ -17,11 +17,11 @@ You task is to create a web interface for a game of Tic-tac-toe (aka Noughts and
 
 # Getting started
 
-Your first task will be to fork and clone this repo and follow the instructions below.
+Your first task will be to a repo for the test (e.g. on gitlab or github) and follow the instructions below.
 
-Once you have finished, please email us the URL to your fork (**don't** issue a pull request).
+Once you have finished, please email us the URL to your repo with instructions on how to run the application.
 
-Please make commits as you go (> 1 and < 100) and provide instructions to run the application.
+Please make commits as you go (> 1 and < 100).
 
 ## The Story
 
