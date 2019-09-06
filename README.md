@@ -17,7 +17,7 @@ You task is to create a web interface for a game of Tic-tac-toe (aka Noughts and
 
 # Getting started
 
-Your first task will be to a repo for the test (e.g. on gitlab or github) and follow the instructions below.
+Please create a new git repo (e.g. on gitlab or github - but please don't fork this repo) and follow the instructions below.
 
 Once you have finished, please email us the URL to your repo with instructions on how to run the application.
 
